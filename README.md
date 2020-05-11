@@ -3,6 +3,31 @@ My fonts
 
 These are the font I've designed using mostly `gbdfed`.
 
+
+sqaps
+-----
+
+This is my curent (2020) main everyday font.
+
+It is a 5×7 pixels, square, small caps font.
+I guess I could say it's opinionated?
+It's unique anyways.
+
+It contains:
+
+- ASCII, of course
+- latin-1
+- latin extended A
+- most of general punctuation
+- most arrows
+- some math operators
+- rounded digits
+- all line and box drawing chars
+- basic shapes
+- most misc symbols
+- and more!
+
+
 sqreep
 ------
 
@@ -15,6 +40,7 @@ This gives it a lovely square look, and kills silly diagonal pixels.
 The character cell is 6×12 pixels.
 
 It maps unicodes characters, including:
+
 - all ASCII
 - latin-1
 - latin extended A
@@ -34,13 +60,16 @@ I used it and enjoyed it for a while, before drawing **sqaps**.
 
 [creep]: https://github.com/romeovs/creep
 
+
 3x6
 ---
 
 A tiny monospaced, 3×6 pixels font.
-Not exactly the most readable (especially for lat-1), but I like to have such a font sometimes.
+Not exactly the most readable (especially for lat-1),
+but I like to have such a font sometimes.
 
 It includes:
+
 - ASCII (first version was ASCII only)
 - latin-1
 - some general punctuation
