@@ -7,6 +7,8 @@ These are the font I've designed using mostly `gbdfed`.
 sqaps
 -----
 
+![sqaps image](sqaps/sqaps.png)
+
 This is my curent (2020) main everyday font.
 
 It is a 5×7 pixels, square, small caps font.
@@ -30,6 +32,8 @@ It contains:
 
 sqreep
 ------
+
+![sqreep image](sqreep/sqreep.png)
 
 This font started as a fork of [creep], but I ended up replacing most glyphs.
 Only the braille pattern and maybe a few symbols remain for creep.
@@ -63,6 +67,8 @@ I used it and enjoyed it for a while, before drawing **sqaps**.
 
 3x6
 ---
+
+![3x6 image](3x6/3x6.png)
 
 A tiny monospaced, 3×6 pixels font.
 Not exactly the most readable (especially for lat-1),
