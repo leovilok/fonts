@@ -33,3 +33,19 @@ This is the first font I made for daily use.
 I used it and enjoyed it for a while, before drawing **sqaps**.
 
 [creep]: https://github.com/romeovs/creep
+
+3x6
+---
+
+A tiny monospaced, 3×6 pixels font.
+Not exactly the most readable (especially for lat-1), but I like to have such a font sometimes.
+
+It includes:
+- ASCII (first version was ASCII only)
+- latin-1
+- some general punctuation
+- a few arrows
+- a few math operators
+- line and box drawing
+- and more!
+
